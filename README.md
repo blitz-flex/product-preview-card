@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/kevin-powell/product-preview-card-component-main)
 - [Live version](https://product-preview-card-j78nl06yi-blitzs-projects-39708a22.vercel.app/)
 
 ## My process
