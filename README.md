@@ -1,20 +1,9 @@
 
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+![screenshot of my solution](./design/desktop-preview.jpg)
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### The challenge
 
@@ -23,13 +12,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
-
-![screenshot of my solution](./design/desktop-preview.jpg)
 
 ### Links
 
-- [Live version](https://product-preview-card-j78nl06yi-blitzs-projects-39708a22.vercel.app/)
+- Live Site URL: [Link](https://blitz-flex.github.io/product-preview-card/)
 
 ## My process
 
@@ -40,6 +26,14 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### What I learned
+
+I learned how to position one image over the other, using the properties, left, top, right, bottom and with this property I was able to position the two images and apply a hover effect with a smooth transition.
+
+
+## Author
+- Github - [blitz-flex](https://github.com/blitz-flex)
 
 
 
